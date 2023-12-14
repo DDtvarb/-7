@@ -13,4 +13,4 @@ print("Cтолбец ",K+1,": ")
 for i in range(M):
     print(a[i][K])
 print()
-
+prikol polnyi poluchilca
